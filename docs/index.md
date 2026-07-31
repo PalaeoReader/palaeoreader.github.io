@@ -13,9 +13,15 @@ summary: PalæoReader (also PalaeoReader) is a free/open-source web-based tool t
 
 ## Background
 
+### Licensing
+
+PalæoReader is licened under the AGPL v3 license.  This allows anyone to deploy the software for any collection in an unrestrictive way.
+
 ### Logo
 
 ## Main features
+
+## Copyright
 
 
 {% include links.html %}
