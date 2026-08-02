@@ -10,7 +10,11 @@ entries:
     output: web
     folderitems:
 
-    - title: Main page
+    - title: About PalæoReader
       url: /index.html
       output: web
       type: homepage
+
+  - title: Installation
+    url: /installation.html
+    output: web

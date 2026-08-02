@@ -1,5 +1,5 @@
 ---
-title: "PalæoReader documentation"
+title: "About PalæoReader"
 keywords: PalæoReader documentation
 tags: [getting_started]
 sidebar: project_sidebar
