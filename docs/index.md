@@ -4,7 +4,7 @@ keywords: PalæoReader documentation
 tags: [getting_started]
 sidebar: project_sidebar
 permalink: index.html
-summary: This page describes PalæoReader, the motivations underlying it, gives further background to its development, and gives an overview of its main features.
+summary: This page describes PalæoReader and the motivations underlying it, gives further background to its development, and provides an overview of its main features.
 ---
 
 ## About PalæoReader
